@@ -2,13 +2,13 @@
 You are required to implement the Red-Black Tree data 
 structure supporting the following operations: 
 1. Search: Search for a specific element in a Red-Black Tree. 
-2.Insertion: Insert a new node in a Red-Black tree. Tree balance 
+2. Insertion: Insert a new node in a Red-Black tree. Tree balance 
 must be maintained via the rotation operations. 
-3.Print Tree Height: Print the height of the Red-Black tree. 
+3. Print Tree Height: Print the height of the Red-Black tree. 
 This is the longest path from the root to a leaf-node. 
-4.Print Tree size: Print the number of elements in Red-Black 
+4. Print Tree size: Print the number of elements in Red-Black 
 tree.
-3. Application: English Dictionary As an application 
+Application: English Dictionary As an application 
 based on your Red-Black Tree implementation, you are 
 required to implement a simple English dictionary, with 
 a simple text-based user interface, supporting the 
